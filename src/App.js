@@ -1,7 +1,9 @@
-import "./App.css";
-
 function App() {
-  return <div>instagram clone</div>;
+  return (
+    <div className="w-full h-full flex items-center justify-center">
+      instagram clone
+    </div>
+  );
 }
 
 export default App;
